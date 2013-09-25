@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # Friendly URLS
-gem 'friendly_id', github: 'FriendlyId/friendly_id', branch: 'rails4'
+gem 'friendly_id', github: 'FriendlyId/friendly_id', branch: 'master'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0'
